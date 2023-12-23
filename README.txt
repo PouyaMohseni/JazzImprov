@@ -35,8 +35,6 @@ This repository contains the implementation and findings of a project focused on
 7. **References**
    - Citations and references to related works and papers.
 
-## Repository Link
-[Link to the Repository](<repository-link>)
 
 ## Results
 The project introduces and evaluates various genetic algorithms for jazz improvisation, highlighting strengths and limitations. The proposed fitness function based on CVAE and anomaly detection shows promise but also has areas for improvement.
