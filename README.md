@@ -1,7 +1,7 @@
 # Genetic Algorithm for Jazz Improvisation
 
 ## Overview
-This repository contains the implementation and findings of a project focused on generating jazz solos using a genetic algorithm. The project explores existing genetic algorithms for jazz improvisation, introduces enhancements, and proposes a novel fitness function based on anomaly detection through a Conditional Variational Autoencoder (CVAE). The goal is to advance the techniques used for jazz improvisation generation.
+This repository contains the implementation and findings of a project focused on generating jazz solos using a genetic algorithm. The project explores existing genetic algorithms for jazz improvisation, introduces enhancements, and proposes a novel fitness function based on anomaly detection through a Conditional Variational Autoencoder (CVAE). The goal is to advance the genetic algorithms used for jazz improvisation generation.
 
 ## Project Structure
 
@@ -10,7 +10,7 @@ This repository contains the implementation and findings of a project focused on
    - Mention of constraints and considerations in the improvisation problem.
 
 2. **Genetic Algorithm for Jazz Solos (GenJam)**
-   - In-depth exploration of the GenJam genetic algorithm by John Biles.
+   - Exploration of the GenJam genetic algorithm by John Biles.
    - Chromosome representation, crossover, mutations, selection, fitness, and discussions.
    - Identified limitations of the GenJam algorithm.
 
@@ -19,7 +19,7 @@ This repository contains the implementation and findings of a project focused on
    - Chromosome representation, fitness function, and discussions.
 
 4. **Introducing a Fitness Function Based on Anomaly Detection for Jazz Improvisation**
-   - Introduction of a novel fitness function using Conditional Variational Autoencoder (CVAE).
+   - Introduction of a fitness function using Conditional Variational Autoencoder (CVAE).
    - Implementation details of CVAE, chromosome representation, and graph-based music representation.
    - Feature architecture for fitness evaluation.
    - Discussions on the effectiveness and limitations of the introduced fitness function.
@@ -32,8 +32,6 @@ This repository contains the implementation and findings of a project focused on
 6. **Future Work**
    - Suggestions and considerations for future enhancements to the project.
 
-7. **References**
-   - Citations and references to related works and papers.
 
 
 ## Results
@@ -45,6 +43,4 @@ The project introduces and evaluates various genetic algorithms for jazz improvi
 - Introduction of a novel fitness function using CVAE and anomaly detection.
 
 ## Discussion
-The README provides an in-depth understanding of the project, including genetic algorithms for jazz improvisation, enhancements, and the proposed fitness function. Discussions cover algorithm limitations, representation choices, and considerations for future work.
-
-Feel free to explore the detailed findings and implementations in the respective sections of the repository!
+The Report provides an in-depth understanding of the project, including genetic algorithms for jazz improvisation, enhancements, and the proposed fitness function. Discussions cover algorithm limitations, representation choices, and considerations for future work.
