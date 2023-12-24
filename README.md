@@ -19,7 +19,7 @@ This repository contains the implementation and findings of a project focused on
    - Chromosome representation, fitness function, and discussions.
 
 4. **Introducing a Fitness Function Based on Anomaly Detection for Jazz Improvisation**
-   - Introduction of a fitness function using Conditional Variational Autoencoder (CVAE).
+   - Introduction of a fitness function using CVAE.
    - Implementation details of CVAE, chromosome representation, and graph-based music representation.
    - Feature architecture for fitness evaluation.
    - Discussions on the effectiveness and limitations of the introduced fitness function.
